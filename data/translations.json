@@ -1,0 +1,1485 @@
+[
+    {
+        "commodity": "Alumahan (Indian Mackerel)",
+        "aliases": [
+            "Alumahan (Indian Mackerel)",
+            "Alumahan",
+            "Indian Mackerel"
+        ]
+    },
+    {
+        "commodity": "Ampalaya",
+        "aliases": [
+            "Ampalaya",
+            "Bitter gourd",
+            "Bitter melon"
+        ]
+    },
+    {
+        "commodity": "Avocado",
+        "aliases": [
+            "Avocado",
+            "Abokado"
+        ]
+    },
+    {
+        "commodity": "Banana (Lakatan)",
+        "aliases": [
+            "Banana (Lakatan)",
+            "Lakatan"
+        ]
+    },
+    {
+        "commodity": "Banana (Latundan)",
+        "aliases": [
+            "Banana (Latundan)",
+            "Latundan"
+        ]
+    },
+    {
+        "commodity": "Banana (Saba)",
+        "aliases": [
+            "Banana (Saba)",
+            "Saba",
+            "Saba banana"
+        ]
+    },
+    {
+        "commodity": "Bangus, Large",
+        "aliases": [
+            "Bangus, Large",
+            "Bangus",
+            "Milkfish"
+        ]
+    },
+    {
+        "commodity": "Bangus, Medium",
+        "aliases": [
+            "Bangus, Medium",
+            "Bangus",
+            "Milkfish"
+        ]
+    },
+    {
+        "commodity": "Basmati Rice",
+        "aliases": [
+            "Basmati Rice",
+            "Basmati"
+        ]
+    },
+    {
+        "commodity": "Beef Brisket, Imported",
+        "aliases": [
+            "Beef Brisket, Imported",
+            "Beef Brisket",
+            "Brisket",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Brisket, Local",
+        "aliases": [
+            "Beef Brisket, Local",
+            "Beef Brisket",
+            "Brisket",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Chuck, Imported",
+        "aliases": [
+            "Beef Chuck, Imported",
+            "Beef Chuck",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Chuck, Local",
+        "aliases": [
+            "Beef Chuck, Local",
+            "Beef Chuck",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Flank, Imported",
+        "aliases": [
+            "Beef Flank, Imported",
+            "Beef Flank",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Flank, Local",
+        "aliases": [
+            "Beef Flank, Local",
+            "Beef Flank",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Fore Limb, Imported",
+        "aliases": [
+            "Beef Fore Limb, Imported",
+            "Beef Fore Limb",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Fore Limb, Local",
+        "aliases": [
+            "Beef Fore Limb, Local",
+            "Beef Fore Limb",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Forequarter, Imported",
+        "aliases": [
+            "Beef Forequarter, Imported",
+            "Beef Forequarter",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Forequarter, Local",
+        "aliases": [
+            "Beef Forequarter, Local",
+            "Beef Forequarter",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Loin, Imported",
+        "aliases": [
+            "Beef Loin, Imported",
+            "Beef Loin",
+            "Lomo",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Loin, Local",
+        "aliases": [
+            "Beef Loin, Local",
+            "Beef Loin",
+            "Lomo",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Plate, Imported",
+        "aliases": [
+            "Beef Plate, Imported",
+            "Beef Plate",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Plate, Local",
+        "aliases": [
+            "Beef Plate, Local",
+            "Beef Plate",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Rib Eye, Imported",
+        "aliases": [
+            "Beef Rib Eye, Imported",
+            "Rib Eye",
+            "Ribeye",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Rib Eye, Local",
+        "aliases": [
+            "Beef Rib Eye, Local",
+            "Rib Eye",
+            "Ribeye",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Rib Set, Imported",
+        "aliases": [
+            "Beef Rib Set, Imported",
+            "Beef Ribs",
+            "Buto-buto",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Rib Set, Local",
+        "aliases": [
+            "Beef Rib Set, Local",
+            "Beef Ribs",
+            "Buto-buto",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Rump, Imported",
+        "aliases": [
+            "Beef Rump, Imported",
+            "Beef Rump",
+            "Rump",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Rump, Local",
+        "aliases": [
+            "Beef Rump, Local",
+            "Beef Rump",
+            "Rump",
+            "Karne"
+        ]
+    },
+    {
+        "commodity": "Beef Short Ribs, Imported",
+        "aliases": [
+            "Beef Short Ribs, Imported",
+            "Short Ribs",
+            "Buto-buto"
+        ]
+    },
+    {
+        "commodity": "Beef Short Ribs, Local",
+        "aliases": [
+            "Beef Short Ribs, Local",
+            "Short Ribs",
+            "Buto-buto"
+        ]
+    },
+    {
+        "commodity": "Beef Sirloin, Imported",
+        "aliases": [
+            "Beef Sirloin, Imported",
+            "Beef Sirloin",
+            "Sirloin"
+        ]
+    },
+    {
+        "commodity": "Beef Sirloin, Local",
+        "aliases": [
+            "Beef Sirloin, Local",
+            "Beef Sirloin",
+            "Sirloin"
+        ]
+    },
+    {
+        "commodity": "Beef Striploin, Imported",
+        "aliases": [
+            "Beef Striploin, Imported",
+            "Striploin",
+            "Strip Loin"
+        ]
+    },
+    {
+        "commodity": "Beef Striploin, Local",
+        "aliases": [
+            "Beef Striploin, Local",
+            "Striploin",
+            "Strip Loin"
+        ]
+    },
+    {
+        "commodity": "Beef Tenderloin, Imported",
+        "aliases": [
+            "Beef Tenderloin, Imported",
+            "Beef Tenderloin",
+            "Tenderloin",
+            "Lomo"
+        ]
+    },
+    {
+        "commodity": "Beef Tenderloin, Local",
+        "aliases": [
+            "Beef Tenderloin, Local",
+            "Beef Tenderloin",
+            "Tenderloin",
+            "Lomo"
+        ]
+    },
+    {
+        "commodity": "Beef Tongue, Imported",
+        "aliases": [
+            "Beef Tongue, Imported",
+            "Beef Tongue",
+            "Dila ng baka"
+        ]
+    },
+    {
+        "commodity": "Beef Tongue, Local",
+        "aliases": [
+            "Beef Tongue, Local",
+            "Beef Tongue",
+            "Dila ng baka"
+        ]
+    },
+    {
+        "commodity": "Bell Pepper (Green), Imported",
+        "aliases": [
+            "Bell Pepper (Green), Imported",
+            "Green Bell Pepper",
+            "Siling lara"
+        ]
+    },
+    {
+        "commodity": "Bell Pepper (Green), Local",
+        "aliases": [
+            "Bell Pepper (Green), Local",
+            "Green Bell Pepper",
+            "Siling lara"
+        ]
+    },
+    {
+        "commodity": "Bell Pepper (Red), Imported",
+        "aliases": [
+            "Bell Pepper (Red), Imported",
+            "Red Bell Pepper",
+            "Siling lara"
+        ]
+    },
+    {
+        "commodity": "Bell Pepper (Red), Local",
+        "aliases": [
+            "Bell Pepper (Red), Local",
+            "Red Bell Pepper",
+            "Siling lara"
+        ]
+    },
+    {
+        "commodity": "Bonito (Frigate Tuna)",
+        "aliases": [
+            "Bonito (Frigate Tuna)",
+            "Bonito",
+            "Tulingan",
+            "Frigate Tuna"
+        ]
+    },
+    {
+        "commodity": "Broccoli, Imported",
+        "aliases": [
+            "Broccoli, Imported",
+            "Broccoli"
+        ]
+    },
+    {
+        "commodity": "Broccoli, Local",
+        "aliases": [
+            "Broccoli, Local",
+            "Broccoli"
+        ]
+    },
+    {
+        "commodity": "Cabbage (Rare Ball)",
+        "aliases": [
+            "Cabbage (Rare Ball)",
+            "Repolyo",
+            "Cabbage"
+        ]
+    },
+    {
+        "commodity": "Cabbage (Scorpio)",
+        "aliases": [
+            "Cabbage (Scorpio)",
+            "Repolyo",
+            "Cabbage"
+        ]
+    },
+    {
+        "commodity": "Cabbage (Wonder Ball)",
+        "aliases": [
+            "Cabbage (Wonder Ball)",
+            "Repolyo",
+            "Cabbage"
+        ]
+    },
+    {
+        "commodity": "Cabbage, Imported",
+        "aliases": [
+            "Cabbage, Imported",
+            "Repolyo",
+            "Cabbage"
+        ]
+    },
+    {
+        "commodity": "Calamansi",
+        "aliases": [
+            "Calamansi",
+            "Lemoncito",
+            "Calamondin"
+        ]
+    },
+    {
+        "commodity": "Carabeef Forequarter, Imported",
+        "aliases": [
+            "Carabeef Forequarter, Imported",
+            "Carabeef",
+            "Karne ng kalabaw"
+        ]
+    },
+    {
+        "commodity": "Carabeef Forequarter, Local",
+        "aliases": [
+            "Carabeef Forequarter, Local",
+            "Carabeef",
+            "Karne ng kalabaw"
+        ]
+    },
+    {
+        "commodity": "Carabeef Meat, Imported",
+        "aliases": [
+            "Carabeef Meat, Imported",
+            "Carabeef",
+            "Karne ng kalabaw"
+        ]
+    },
+    {
+        "commodity": "Carabeef Meat, Local",
+        "aliases": [
+            "Carabeef Meat, Local",
+            "Carabeef",
+            "Karne ng kalabaw"
+        ]
+    },
+    {
+        "commodity": "Carabeef Rump Steak, Imported",
+        "aliases": [
+            "Carabeef Rump Steak, Imported",
+            "Carabeef Rump",
+            "Karne ng kalabaw"
+        ]
+    },
+    {
+        "commodity": "Carabeef Rump Steak, Local",
+        "aliases": [
+            "Carabeef Rump Steak, Local",
+            "Carabeef Rump",
+            "Karne ng kalabaw"
+        ]
+    },
+    {
+        "commodity": "Carabeef Trimmings, Imported",
+        "aliases": [
+            "Carabeef Trimmings, Imported",
+            "Carabeef Trimmings",
+            "Karne ng kalabaw"
+        ]
+    },
+    {
+        "commodity": "Carabeef Trimmings, Local",
+        "aliases": [
+            "Carabeef Trimmings, Local",
+            "Carabeef Trimmings",
+            "Karne ng kalabaw"
+        ]
+    },
+    {
+        "commodity": "Carrots, Imported",
+        "aliases": [
+            "Carrots, Imported",
+            "Carrot",
+            "Karot"
+        ]
+    },
+    {
+        "commodity": "Carrots, Local",
+        "aliases": [
+            "Carrots, Local",
+            "Carrot",
+            "Karot"
+        ]
+    },
+    {
+        "commodity": "Cauliflower, Imported",
+        "aliases": [
+            "Cauliflower, Imported",
+            "Cauliflower"
+        ]
+    },
+    {
+        "commodity": "Cauliflower, Local",
+        "aliases": [
+            "Cauliflower, Local",
+            "Cauliflower"
+        ]
+    },
+    {
+        "commodity": "Celery",
+        "aliases": [
+            "Celery",
+            "Kintsay"
+        ]
+    },
+    {
+        "commodity": "Chayote",
+        "aliases": [
+            "Chayote",
+            "Sayote"
+        ]
+    },
+    {
+        "commodity": "Chicken Breast, Imported",
+        "aliases": [
+            "Chicken Breast, Imported",
+            "Chicken Breast",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Breast, Local",
+        "aliases": [
+            "Chicken Breast, Local",
+            "Chicken Breast",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Drumstick, Imported",
+        "aliases": [
+            "Chicken Drumstick, Imported",
+            "Chicken Drumstick",
+            "Chicken Leg",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Drumstick, Local",
+        "aliases": [
+            "Chicken Drumstick, Local",
+            "Chicken Drumstick",
+            "Chicken Leg",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Egg (White, Medium)",
+        "aliases": [
+            "Chicken Egg (White, Medium)",
+            "Chicken Egg",
+            "Itlog ng manok",
+            "Itlog"
+        ]
+    },
+    {
+        "commodity": "Chicken Feet, Imported",
+        "aliases": [
+            "Chicken Feet, Imported",
+            "Chicken Feet",
+            "Adidas",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Feet, Local",
+        "aliases": [
+            "Chicken Feet, Local",
+            "Chicken Feet",
+            "Adidas",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Leg Quarter",
+        "aliases": [
+            "Chicken Leg Quarter",
+            "Chicken Leg",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Leg Quarter, Imported",
+        "aliases": [
+            "Chicken Leg Quarter, Imported",
+            "Chicken Leg",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Liver, Imported",
+        "aliases": [
+            "Chicken Liver, Imported",
+            "Chicken Liver",
+            "Atay ng manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Liver, Local",
+        "aliases": [
+            "Chicken Liver, Local",
+            "Chicken Liver",
+            "Atay ng manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Neck, Imported",
+        "aliases": [
+            "Chicken Neck, Imported",
+            "Chicken Neck",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Neck, Local",
+        "aliases": [
+            "Chicken Neck, Local",
+            "Chicken Neck",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Rind/Skin, Imported",
+        "aliases": [
+            "Chicken Rind/Skin, Imported",
+            "Chicken Skin",
+            "Balat ng manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Rind/Skin, Local",
+        "aliases": [
+            "Chicken Rind/Skin, Local",
+            "Chicken Skin",
+            "Balat ng manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Thigh, Imported",
+        "aliases": [
+            "Chicken Thigh, Imported",
+            "Chicken Thigh",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Thigh, Local",
+        "aliases": [
+            "Chicken Thigh, Local",
+            "Chicken Thigh",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Wing, Imported",
+        "aliases": [
+            "Chicken Wing, Imported",
+            "Chicken Wing",
+            "Chicken Wings",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chicken Wing, Local",
+        "aliases": [
+            "Chicken Wing, Local",
+            "Chicken Wing",
+            "Chicken Wings",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Chilli (Green), Local",
+        "aliases": [
+            "Chilli (Green), Local",
+            "Sili",
+            "Siling panigang",
+            "Green Chilli"
+        ]
+    },
+    {
+        "commodity": "Chilli (Red), Local",
+        "aliases": [
+            "Chilli (Red), Local",
+            "Sili",
+            "Siling labuyo",
+            "Red Chilli"
+        ]
+    },
+    {
+        "commodity": "Cooking Oil (Coconut)",
+        "aliases": [
+            "Cooking Oil (Coconut)",
+            "Coconut Oil",
+            "Langis ng Niyog"
+        ]
+    },
+    {
+        "commodity": "Cooking Oil (Minola)",
+        "aliases": [
+            "Cooking Oil (Minola)",
+            "Minola",
+            "Cooking Oil"
+        ]
+    },
+    {
+        "commodity": "Cooking Oil (Palm Olein, Jolly\nBrand)",
+        "aliases": [
+            "Cooking Oil (Palm Olein, Jolly\nBrand)",
+            "Cooking Oil (Palm Olein, Jolly Brand)",
+            "Palm Oil",
+            "Jolly",
+            "Cooking Oil"
+        ]
+    },
+    {
+        "commodity": "Cooking Oil (Palm)",
+        "aliases": [
+            "Cooking Oil (Palm)",
+            "Palm Oil",
+            "Cooking Oil"
+        ]
+    },
+    {
+        "commodity": "Cooking Oil (Spring)",
+        "aliases": [
+            "Cooking Oil (Spring)",
+            "Spring Oil",
+            "Cooking Oil"
+        ]
+    },
+    {
+        "commodity": "Corn (White)",
+        "aliases": [
+            "Corn (White)",
+            "White Corn",
+            "Mais"
+        ]
+    },
+    {
+        "commodity": "Corn (Yellow)",
+        "aliases": [
+            "Corn (Yellow)",
+            "Yellow Corn",
+            "Mais"
+        ]
+    },
+    {
+        "commodity": "Corn Cracked (Yellow, Feed Grade)",
+        "aliases": [
+            "Corn Cracked (Yellow, Feed Grade)",
+            "Cracked Corn",
+            "Mais"
+        ]
+    },
+    {
+        "commodity": "Corn Grits (Feed Grade)",
+        "aliases": [
+            "Corn Grits (Feed Grade)",
+            "Corn Grits",
+            "Mais"
+        ]
+    },
+    {
+        "commodity": "Corn Grits (White, Food Grade)",
+        "aliases": [
+            "Corn Grits (White, Food Grade)",
+            "White Corn Grits",
+            "Bigas mais"
+        ]
+    },
+    {
+        "commodity": "Corn Grits (Yellow, Food Grade)",
+        "aliases": [
+            "Corn Grits (Yellow, Food Grade)",
+            "Yellow Corn Grits",
+            "Bigas mais"
+        ]
+    },
+    {
+        "commodity": "Duck Meat, Imported",
+        "aliases": [
+            "Duck Meat, Imported",
+            "Duck",
+            "Pato"
+        ]
+    },
+    {
+        "commodity": "Duck Meat, Local",
+        "aliases": [
+            "Duck Meat, Local",
+            "Duck",
+            "Pato"
+        ]
+    },
+    {
+        "commodity": "Eggplant",
+        "aliases": [
+            "Eggplant",
+            "Talong"
+        ]
+    },
+    {
+        "commodity": "Galunggong, Imported",
+        "aliases": [
+            "Galunggong, Imported",
+            "Galunggong",
+            "Round Scad"
+        ]
+    },
+    {
+        "commodity": "Galunggong, Local",
+        "aliases": [
+            "Galunggong, Local",
+            "Galunggong",
+            "Round Scad"
+        ]
+    },
+    {
+        "commodity": "Garlic, Imported",
+        "aliases": [
+            "Garlic, Imported",
+            "Garlic",
+            "Bawang"
+        ]
+    },
+    {
+        "commodity": "Garlic, Native/Local",
+        "aliases": [
+            "Garlic, Native/Local",
+            "Garlic",
+            "Bawang"
+        ]
+    },
+    {
+        "commodity": "Ginger, Imported",
+        "aliases": [
+            "Ginger, Imported",
+            "Ginger",
+            "Luya"
+        ]
+    },
+    {
+        "commodity": "Ginger, Local",
+        "aliases": [
+            "Ginger, Local",
+            "Ginger",
+            "Luya"
+        ]
+    },
+    {
+        "commodity": "Glutinous Rice",
+        "aliases": [
+            "Glutinous Rice",
+            "Malagkit",
+            "Sticky Rice"
+        ]
+    },
+    {
+        "commodity": "Habichuelas/Baguio Beans, Local",
+        "aliases": [
+            "Habichuelas/Baguio Beans, Local",
+            "Habichuelas",
+            "Baguio Beans",
+            "Snap Beans"
+        ]
+    },
+    {
+        "commodity": "Jasponica/Japonica Rice",
+        "aliases": [
+            "Jasponica/Japonica Rice",
+            "Japonica Rice",
+            "Jasponica"
+        ]
+    },
+    {
+        "commodity": "Lamb Meat",
+        "aliases": [
+            "Lamb Meat",
+            "Lamb",
+            "Tupa"
+        ]
+    },
+    {
+        "commodity": "Lettuce (Green Ice)",
+        "aliases": [
+            "Lettuce (Green Ice)",
+            "Green Ice Lettuce",
+            "Litsugas"
+        ]
+    },
+    {
+        "commodity": "Lettuce (Iceberg)",
+        "aliases": [
+            "Lettuce (Iceberg)",
+            "Iceberg Lettuce",
+            "Litsugas"
+        ]
+    },
+    {
+        "commodity": "Lettuce (Romaine)",
+        "aliases": [
+            "Lettuce (Romaine)",
+            "Romaine Lettuce",
+            "Litsugas"
+        ]
+    },
+    {
+        "commodity": "Lettuce, Imported",
+        "aliases": [
+            "Lettuce, Imported",
+            "Lettuce",
+            "Litsugas"
+        ]
+    },
+    {
+        "commodity": "Mackerel, Imported",
+        "aliases": [
+            "Mackerel, Imported",
+            "Mackerel",
+            "Alumahan"
+        ]
+    },
+    {
+        "commodity": "Mango (Carabao)",
+        "aliases": [
+            "Mango (Carabao)",
+            "Mango",
+            "Mangga",
+            "Carabao Mango"
+        ]
+    },
+    {
+        "commodity": "Melon",
+        "aliases": [
+            "Melon",
+            "Cantaloupe"
+        ]
+    },
+    {
+        "commodity": "Mungbean",
+        "aliases": [
+            "Mungbean",
+            "Mongo",
+            "Munggo"
+        ]
+    },
+    {
+        "commodity": "Native Pechay",
+        "aliases": [
+            "Native Pechay",
+            "Pechay",
+            "Bok choy"
+        ]
+    },
+    {
+        "commodity": "Other Special Rice",
+        "aliases": [
+            "Other Special Rice",
+            "Special Rice"
+        ]
+    },
+    {
+        "commodity": "Pampano, Imported",
+        "aliases": [
+            "Pampano, Imported",
+            "Pampano",
+            "Pompano"
+        ]
+    },
+    {
+        "commodity": "Pampano, Local",
+        "aliases": [
+            "Pampano, Local",
+            "Pampano",
+            "Pompano"
+        ]
+    },
+    {
+        "commodity": "Papaya",
+        "aliases": [
+            "Papaya",
+            "Kapayas"
+        ]
+    },
+    {
+        "commodity": "Pechay Baguio",
+        "aliases": [
+            "Pechay Baguio",
+            "Pechay",
+            "Napa Cabbage"
+        ]
+    },
+    {
+        "commodity": "Peckin Duck, Imported",
+        "aliases": [
+            "Peckin Duck, Imported",
+            "Pekin Duck",
+            "Duck",
+            "Pato"
+        ]
+    },
+    {
+        "commodity": "Peckin Duck, Local",
+        "aliases": [
+            "Peckin Duck, Local",
+            "Pekin Duck",
+            "Duck",
+            "Pato"
+        ]
+    },
+    {
+        "commodity": "Pole Sitao",
+        "aliases": [
+            "Pole Sitao",
+            "Sitao",
+            "String Beans",
+            "Yardlong Bean"
+        ]
+    },
+    {
+        "commodity": "Pomelo",
+        "aliases": [
+            "Pomelo",
+            "Suha"
+        ]
+    },
+    {
+        "commodity": "Pork Belly (Liempo), Imported",
+        "aliases": [
+            "Pork Belly (Liempo), Imported",
+            "Pork Belly",
+            "Liempo"
+        ]
+    },
+    {
+        "commodity": "Pork Belly (Liempo), Local",
+        "aliases": [
+            "Pork Belly (Liempo), Local",
+            "Pork Belly",
+            "Liempo"
+        ]
+    },
+    {
+        "commodity": "Pork Boston Shoulder, Imported",
+        "aliases": [
+            "Pork Boston Shoulder, Imported",
+            "Kasim",
+            "Pork Shoulder"
+        ]
+    },
+    {
+        "commodity": "Pork Boston Shoulder, Local",
+        "aliases": [
+            "Pork Boston Shoulder, Local",
+            "Kasim",
+            "Pork Shoulder"
+        ]
+    },
+    {
+        "commodity": "Pork Chop, Imported",
+        "aliases": [
+            "Pork Chop, Imported",
+            "Pork Chop",
+            "Porkchop"
+        ]
+    },
+    {
+        "commodity": "Pork Chop, Local",
+        "aliases": [
+            "Pork Chop, Local",
+            "Pork Chop",
+            "Porkchop"
+        ]
+    },
+    {
+        "commodity": "Pork Fore Shank, Imported",
+        "aliases": [
+            "Pork Fore Shank, Imported",
+            "Pork Shank",
+            "Pata"
+        ]
+    },
+    {
+        "commodity": "Pork Fore Shank, Local",
+        "aliases": [
+            "Pork Fore Shank, Local",
+            "Pork Shank",
+            "Pata"
+        ]
+    },
+    {
+        "commodity": "Pork Head, Imported",
+        "aliases": [
+            "Pork Head, Imported",
+            "Pork Head",
+            "Ulo ng baboy"
+        ]
+    },
+    {
+        "commodity": "Pork Head, Local",
+        "aliases": [
+            "Pork Head, Local",
+            "Pork Head",
+            "Ulo ng baboy"
+        ]
+    },
+    {
+        "commodity": "Pork Hind Leg (Pigue), Imported",
+        "aliases": [
+            "Pork Hind Leg (Pigue), Imported",
+            "Pigue",
+            "Pork Leg"
+        ]
+    },
+    {
+        "commodity": "Pork Hind Leg (Pigue), Local",
+        "aliases": [
+            "Pork Hind Leg (Pigue), Local",
+            "Pigue",
+            "Pork Leg"
+        ]
+    },
+    {
+        "commodity": "Pork Hind Shank, Imported",
+        "aliases": [
+            "Pork Hind Shank, Imported",
+            "Pork Shank",
+            "Pata"
+        ]
+    },
+    {
+        "commodity": "Pork Hind Shank, Local",
+        "aliases": [
+            "Pork Hind Shank, Local",
+            "Pork Shank",
+            "Pata"
+        ]
+    },
+    {
+        "commodity": "Pork Loin, Imported",
+        "aliases": [
+            "Pork Loin, Imported",
+            "Pork Loin",
+            "Lomo"
+        ]
+    },
+    {
+        "commodity": "Pork Loin, Local",
+        "aliases": [
+            "Pork Loin, Local",
+            "Pork Loin",
+            "Lomo"
+        ]
+    },
+    {
+        "commodity": "Pork Offals, Imported",
+        "aliases": [
+            "Pork Offals, Imported",
+            "Pork Offal",
+            "Lamang loob ng baboy"
+        ]
+    },
+    {
+        "commodity": "Pork Offals, Local",
+        "aliases": [
+            "Pork Offals, Local",
+            "Pork Offal",
+            "Lamang loob ng baboy"
+        ]
+    },
+    {
+        "commodity": "Pork Picnic Shoulder (Kasim),\nImported",
+        "aliases": [
+            "Pork Picnic Shoulder (Kasim),\nImported",
+            "Pork Picnic Shoulder (Kasim), Imported",
+            "Kasim",
+            "Pork Shoulder"
+        ]
+    },
+    {
+        "commodity": "Pork Picnic Shoulder (Kasim),\nLocal",
+        "aliases": [
+            "Pork Picnic Shoulder (Kasim),\nLocal",
+            "Pork Picnic Shoulder (Kasim), Local",
+            "Kasim",
+            "Pork Shoulder"
+        ]
+    },
+    {
+        "commodity": "Pork Rind/Skin, Imported",
+        "aliases": [
+            "Pork Rind/Skin, Imported",
+            "Pork Skin",
+            "Chicharon",
+            "Balat ng baboy"
+        ]
+    },
+    {
+        "commodity": "Pork Rind/Skin, Local",
+        "aliases": [
+            "Pork Rind/Skin, Local",
+            "Pork Skin",
+            "Chicharon",
+            "Balat ng baboy"
+        ]
+    },
+    {
+        "commodity": "Pork Spare Ribs, Imported",
+        "aliases": [
+            "Pork Spare Ribs, Imported",
+            "Pork Ribs",
+            "Buto-buto"
+        ]
+    },
+    {
+        "commodity": "Pork Spare Ribs, Local",
+        "aliases": [
+            "Pork Spare Ribs, Local",
+            "Pork Ribs",
+            "Buto-buto"
+        ]
+    },
+    {
+        "commodity": "Premium",
+        "aliases": [
+            "Premium",
+            "Premium Rice"
+        ]
+    },
+    {
+        "commodity": "Red Onion, Imported",
+        "aliases": [
+            "Red Onion, Imported",
+            "Red Onion",
+            "Sibuyas na pula"
+        ]
+    },
+    {
+        "commodity": "Red Onion, Local",
+        "aliases": [
+            "Red Onion, Local",
+            "Red Onion",
+            "Sibuyas na pula",
+            "Sibuyas Tagalog"
+        ]
+    },
+    {
+        "commodity": "Regular Milled",
+        "aliases": [
+            "Regular Milled",
+            "Regular Milled Rice"
+        ]
+    },
+    {
+        "commodity": "Salmon Belly, Imported",
+        "aliases": [
+            "Salmon Belly, Imported",
+            "Salmon Belly",
+            "Salmon"
+        ]
+    },
+    {
+        "commodity": "Salmon Belly, Local",
+        "aliases": [
+            "Salmon Belly, Local",
+            "Salmon Belly",
+            "Salmon"
+        ]
+    },
+    {
+        "commodity": "Salmon Head, Imported",
+        "aliases": [
+            "Salmon Head, Imported",
+            "Salmon Head",
+            "Salmon"
+        ]
+    },
+    {
+        "commodity": "Salmon Head, Local",
+        "aliases": [
+            "Salmon Head, Local",
+            "Salmon Head",
+            "Salmon"
+        ]
+    },
+    {
+        "commodity": "Salt (Iodized)",
+        "aliases": [
+            "Salt (Iodized)",
+            "Iodized Salt",
+            "Asin"
+        ]
+    },
+    {
+        "commodity": "Salt (Rock)",
+        "aliases": [
+            "Salt (Rock)",
+            "Rock Salt",
+            "Asin"
+        ]
+    },
+    {
+        "commodity": "Sardines (Tamban)",
+        "aliases": [
+            "Sardines (Tamban)",
+            "Sardines",
+            "Tamban"
+        ]
+    },
+    {
+        "commodity": "Squash",
+        "aliases": [
+            "Squash",
+            "Kalabasa"
+        ]
+    },
+    {
+        "commodity": "Squid (Pusit Bisaya), Local",
+        "aliases": [
+            "Squid (Pusit Bisaya), Local",
+            "Squid",
+            "Pusit"
+        ]
+    },
+    {
+        "commodity": "Squid, Imported",
+        "aliases": [
+            "Squid, Imported",
+            "Squid",
+            "Pusit"
+        ]
+    },
+    {
+        "commodity": "Sugar (Brown)",
+        "aliases": [
+            "Sugar (Brown)",
+            "Brown Sugar",
+            "Asukal na pula"
+        ]
+    },
+    {
+        "commodity": "Sugar (Refined)",
+        "aliases": [
+            "Sugar (Refined)",
+            "Refined Sugar",
+            "Asukal na puti",
+            "White Sugar"
+        ]
+    },
+    {
+        "commodity": "Sugar (Washed)",
+        "aliases": [
+            "Sugar (Washed)",
+            "Washed Sugar",
+            "Asukal"
+        ]
+    },
+    {
+        "commodity": "Tambakol (Yellow-Fin Tuna),\nImported",
+        "aliases": [
+            "Tambakol (Yellow-Fin Tuna),\nImported",
+            "Tambakol (Yellow-Fin Tuna), Imported",
+            "Tambakol",
+            "Yellowfin Tuna",
+            "Tuna"
+        ]
+    },
+    {
+        "commodity": "Tambakol (Yellow-Fin Tuna),\nLocal",
+        "aliases": [
+            "Tambakol (Yellow-Fin Tuna),\nLocal",
+            "Tambakol (Yellow-Fin Tuna), Local",
+            "Tambakol",
+            "Yellowfin Tuna",
+            "Tuna"
+        ]
+    },
+    {
+        "commodity": "Tanigue",
+        "aliases": [
+            "Tanigue",
+            "Spanish Mackerel"
+        ]
+    },
+    {
+        "commodity": "Tiger Chillies, Imported",
+        "aliases": [
+            "Tiger Chillies, Imported",
+            "Tiger Chillies",
+            "Sili",
+            "Tiger Chili"
+        ]
+    },
+    {
+        "commodity": "Tilapia",
+        "aliases": [
+            "Tilapia"
+        ]
+    },
+    {
+        "commodity": "Tomato",
+        "aliases": [
+            "Tomato",
+            "Kamatis",
+            "Tomatoes"
+        ]
+    },
+    {
+        "commodity": "Watermelon",
+        "aliases": [
+            "Watermelon",
+            "Pakwan"
+        ]
+    },
+    {
+        "commodity": "Well Milled",
+        "aliases": [
+            "Well Milled",
+            "Well Milled Rice"
+        ]
+    },
+    {
+        "commodity": "White Onion, Imported",
+        "aliases": [
+            "White Onion, Imported",
+            "White Onion",
+            "Sibuyas na puti"
+        ]
+    },
+    {
+        "commodity": "White Onion, Local",
+        "aliases": [
+            "White Onion, Local",
+            "White Onion",
+            "Sibuyas na puti"
+        ]
+    },
+    {
+        "commodity": "White Potato, Imported",
+        "aliases": [
+            "White Potato, Imported",
+            "Patatas",
+            "Potato"
+        ]
+    },
+    {
+        "commodity": "White Potato, Local",
+        "aliases": [
+            "White Potato, Local",
+            "Patatas",
+            "Potato"
+        ]
+    },
+    {
+        "commodity": "Whole Chicken, Imported",
+        "aliases": [
+            "Whole Chicken, Imported",
+            "Whole Chicken",
+            "Chicken",
+            "Manok"
+        ]
+    },
+    {
+        "commodity": "Whole Chicken, Local",
+        "aliases": [
+            "Whole Chicken, Local",
+            "Whole Chicken",
+            "Chicken",
+            "Manok"
+        ]
+    }
+]
