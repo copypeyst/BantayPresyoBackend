@@ -1,10 +1,14 @@
 name: Daily Import
 
 on:
+  push:
+    branches:
+      - main
+
   workflow_dispatch:
 
   schedule:
-    - cron: "00 13 * * *"
+    - cron: "30 13 * * *"
 
 permissions:
   contents: write
