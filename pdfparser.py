@@ -85,7 +85,7 @@ def read_official_date(pdf_path):
 
 def parse_row(row):
 
-    row = [(cell or "").strip() for cell in row]
+    row = [(cell or "").replace('\n', ' ').strip() for cell in row]
 
     if not any(row):
         return None

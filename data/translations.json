@@ -4,7 +4,9 @@
         "aliases": [
             "Alumahan (Indian Mackerel)",
             "Alumahan",
-            "Indian Mackerel"
+            "Indian Mackerel",
+            "Mackerel",
+            "Isda"
         ]
     },
     {
@@ -12,7 +14,9 @@
         "aliases": [
             "Ampalaya",
             "Bitter gourd",
-            "Bitter melon"
+            "Bitter melon",
+            "Bittergourd",
+            "Margoso"
         ]
     },
     {
@@ -26,14 +30,18 @@
         "commodity": "Banana (Lakatan)",
         "aliases": [
             "Banana (Lakatan)",
-            "Lakatan"
+            "Lakatan",
+            "Banana",
+            "Saging"
         ]
     },
     {
         "commodity": "Banana (Latundan)",
         "aliases": [
             "Banana (Latundan)",
-            "Latundan"
+            "Latundan",
+            "Banana",
+            "Saging"
         ]
     },
     {
@@ -41,7 +49,10 @@
         "aliases": [
             "Banana (Saba)",
             "Saba",
-            "Saba banana"
+            "Saba banana",
+            "Banana",
+            "Saging",
+            "Cardaba"
         ]
     },
     {
@@ -49,7 +60,8 @@
         "aliases": [
             "Bangus, Large",
             "Bangus",
-            "Milkfish"
+            "Milkfish",
+            "Isda"
         ]
     },
     {
@@ -57,14 +69,18 @@
         "aliases": [
             "Bangus, Medium",
             "Bangus",
-            "Milkfish"
+            "Milkfish",
+            "Isda"
         ]
     },
     {
         "commodity": "Basmati Rice",
         "aliases": [
             "Basmati Rice",
-            "Basmati"
+            "Basmati",
+            "Rice",
+            "Bigas",
+            "Kanin"
         ]
     },
     {
@@ -73,7 +89,10 @@
             "Beef Brisket, Imported",
             "Beef Brisket",
             "Brisket",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -82,7 +101,10 @@
             "Beef Brisket, Local",
             "Beef Brisket",
             "Brisket",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -90,7 +112,11 @@
         "aliases": [
             "Beef Chuck, Imported",
             "Beef Chuck",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Paypay"
         ]
     },
     {
@@ -98,7 +124,11 @@
         "aliases": [
             "Beef Chuck, Local",
             "Beef Chuck",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Paypay"
         ]
     },
     {
@@ -106,7 +136,11 @@
         "aliases": [
             "Beef Flank, Imported",
             "Beef Flank",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Kabilugan"
         ]
     },
     {
@@ -114,7 +148,11 @@
         "aliases": [
             "Beef Flank, Local",
             "Beef Flank",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Kabilugan"
         ]
     },
     {
@@ -122,7 +160,12 @@
         "aliases": [
             "Beef Fore Limb, Imported",
             "Beef Fore Limb",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Kneecap",
+            "Kenchi"
         ]
     },
     {
@@ -130,7 +173,12 @@
         "aliases": [
             "Beef Fore Limb, Local",
             "Beef Fore Limb",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Kneecap",
+            "Kenchi"
         ]
     },
     {
@@ -138,7 +186,10 @@
         "aliases": [
             "Beef Forequarter, Imported",
             "Beef Forequarter",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -146,7 +197,10 @@
         "aliases": [
             "Beef Forequarter, Local",
             "Beef Forequarter",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -155,7 +209,10 @@
             "Beef Loin, Imported",
             "Beef Loin",
             "Lomo",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -164,7 +221,10 @@
             "Beef Loin, Local",
             "Beef Loin",
             "Lomo",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -172,7 +232,11 @@
         "aliases": [
             "Beef Plate, Imported",
             "Beef Plate",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Kanto"
         ]
     },
     {
@@ -180,7 +244,11 @@
         "aliases": [
             "Beef Plate, Local",
             "Beef Plate",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Kanto"
         ]
     },
     {
@@ -189,7 +257,11 @@
             "Beef Rib Eye, Imported",
             "Rib Eye",
             "Ribeye",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Tadyang"
         ]
     },
     {
@@ -198,7 +270,11 @@
             "Beef Rib Eye, Local",
             "Rib Eye",
             "Ribeye",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Tadyang"
         ]
     },
     {
@@ -207,7 +283,11 @@
             "Beef Rib Set, Imported",
             "Beef Ribs",
             "Buto-buto",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Tadyang"
         ]
     },
     {
@@ -216,7 +296,11 @@
             "Beef Rib Set, Local",
             "Beef Ribs",
             "Buto-buto",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Tadyang"
         ]
     },
     {
@@ -225,7 +309,11 @@
             "Beef Rump, Imported",
             "Beef Rump",
             "Rump",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Tapadera"
         ]
     },
     {
@@ -234,7 +322,11 @@
             "Beef Rump, Local",
             "Beef Rump",
             "Rump",
-            "Karne"
+            "Karne",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Tapadera"
         ]
     },
     {
@@ -242,7 +334,11 @@
         "aliases": [
             "Beef Short Ribs, Imported",
             "Short Ribs",
-            "Buto-buto"
+            "Buto-buto",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Tadyang"
         ]
     },
     {
@@ -250,7 +346,11 @@
         "aliases": [
             "Beef Short Ribs, Local",
             "Short Ribs",
-            "Buto-buto"
+            "Buto-buto",
+            "Beef",
+            "Baka",
+            "Karne ng baka",
+            "Tadyang"
         ]
     },
     {
@@ -258,7 +358,11 @@
         "aliases": [
             "Beef Sirloin, Imported",
             "Beef Sirloin",
-            "Sirloin"
+            "Sirloin",
+            "Kadera",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -266,7 +370,11 @@
         "aliases": [
             "Beef Sirloin, Local",
             "Beef Sirloin",
-            "Sirloin"
+            "Sirloin",
+            "Kadera",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -274,7 +382,10 @@
         "aliases": [
             "Beef Striploin, Imported",
             "Striploin",
-            "Strip Loin"
+            "Strip Loin",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -282,7 +393,10 @@
         "aliases": [
             "Beef Striploin, Local",
             "Striploin",
-            "Strip Loin"
+            "Strip Loin",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -291,7 +405,10 @@
             "Beef Tenderloin, Imported",
             "Beef Tenderloin",
             "Tenderloin",
-            "Lomo"
+            "Lomo",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -300,7 +417,10 @@
             "Beef Tenderloin, Local",
             "Beef Tenderloin",
             "Tenderloin",
-            "Lomo"
+            "Lomo",
+            "Beef",
+            "Baka",
+            "Karne ng baka"
         ]
     },
     {
@@ -308,7 +428,10 @@
         "aliases": [
             "Beef Tongue, Imported",
             "Beef Tongue",
-            "Dila ng baka"
+            "Dila ng baka",
+            "Dila",
+            "Beef",
+            "Baka"
         ]
     },
     {
@@ -316,7 +439,10 @@
         "aliases": [
             "Beef Tongue, Local",
             "Beef Tongue",
-            "Dila ng baka"
+            "Dila ng baka",
+            "Dila",
+            "Beef",
+            "Baka"
         ]
     },
     {
@@ -324,7 +450,10 @@
         "aliases": [
             "Bell Pepper (Green), Imported",
             "Green Bell Pepper",
-            "Siling lara"
+            "Siling lara",
+            "Siling berde",
+            "Capsicum",
+            "Bell Pepper"
         ]
     },
     {
@@ -332,7 +461,10 @@
         "aliases": [
             "Bell Pepper (Green), Local",
             "Green Bell Pepper",
-            "Siling lara"
+            "Siling lara",
+            "Siling berde",
+            "Capsicum",
+            "Bell Pepper"
         ]
     },
     {
@@ -340,7 +472,10 @@
         "aliases": [
             "Bell Pepper (Red), Imported",
             "Red Bell Pepper",
-            "Siling lara"
+            "Siling lara",
+            "Siling pula",
+            "Capsicum",
+            "Bell Pepper"
         ]
     },
     {
@@ -348,7 +483,10 @@
         "aliases": [
             "Bell Pepper (Red), Local",
             "Red Bell Pepper",
-            "Siling lara"
+            "Siling lara",
+            "Siling pula",
+            "Capsicum",
+            "Bell Pepper"
         ]
     },
     {
@@ -357,21 +495,25 @@
             "Bonito (Frigate Tuna)",
             "Bonito",
             "Tulingan",
-            "Frigate Tuna"
+            "Frigate Tuna",
+            "Tuna",
+            "Isda"
         ]
     },
     {
         "commodity": "Broccoli, Imported",
         "aliases": [
             "Broccoli, Imported",
-            "Broccoli"
+            "Broccoli",
+            "Brokoli"
         ]
     },
     {
         "commodity": "Broccoli, Local",
         "aliases": [
             "Broccoli, Local",
-            "Broccoli"
+            "Broccoli",
+            "Brokoli"
         ]
     },
     {
@@ -411,7 +553,9 @@
         "aliases": [
             "Calamansi",
             "Lemoncito",
-            "Calamondin"
+            "Calamondin",
+            "Kalamansi",
+            "Philippine Lime"
         ]
     },
     {
@@ -419,7 +563,9 @@
         "aliases": [
             "Carabeef Forequarter, Imported",
             "Carabeef",
-            "Karne ng kalabaw"
+            "Karne ng kalabaw",
+            "Kalabaw",
+            "Carabao"
         ]
     },
     {
@@ -427,7 +573,9 @@
         "aliases": [
             "Carabeef Forequarter, Local",
             "Carabeef",
-            "Karne ng kalabaw"
+            "Karne ng kalabaw",
+            "Kalabaw",
+            "Carabao"
         ]
     },
     {
@@ -435,7 +583,9 @@
         "aliases": [
             "Carabeef Meat, Imported",
             "Carabeef",
-            "Karne ng kalabaw"
+            "Karne ng kalabaw",
+            "Kalabaw",
+            "Carabao"
         ]
     },
     {
@@ -443,7 +593,9 @@
         "aliases": [
             "Carabeef Meat, Local",
             "Carabeef",
-            "Karne ng kalabaw"
+            "Karne ng kalabaw",
+            "Kalabaw",
+            "Carabao"
         ]
     },
     {
@@ -451,7 +603,9 @@
         "aliases": [
             "Carabeef Rump Steak, Imported",
             "Carabeef Rump",
-            "Karne ng kalabaw"
+            "Karne ng kalabaw",
+            "Kalabaw",
+            "Carabao"
         ]
     },
     {
@@ -459,7 +613,9 @@
         "aliases": [
             "Carabeef Rump Steak, Local",
             "Carabeef Rump",
-            "Karne ng kalabaw"
+            "Karne ng kalabaw",
+            "Kalabaw",
+            "Carabao"
         ]
     },
     {
@@ -467,7 +623,9 @@
         "aliases": [
             "Carabeef Trimmings, Imported",
             "Carabeef Trimmings",
-            "Karne ng kalabaw"
+            "Karne ng kalabaw",
+            "Kalabaw",
+            "Carabao"
         ]
     },
     {
@@ -475,7 +633,9 @@
         "aliases": [
             "Carabeef Trimmings, Local",
             "Carabeef Trimmings",
-            "Karne ng kalabaw"
+            "Karne ng kalabaw",
+            "Kalabaw",
+            "Carabao"
         ]
     },
     {
@@ -498,14 +658,16 @@
         "commodity": "Cauliflower, Imported",
         "aliases": [
             "Cauliflower, Imported",
-            "Cauliflower"
+            "Cauliflower",
+            "Koliplor"
         ]
     },
     {
         "commodity": "Cauliflower, Local",
         "aliases": [
             "Cauliflower, Local",
-            "Cauliflower"
+            "Cauliflower",
+            "Koliplor"
         ]
     },
     {
@@ -527,7 +689,11 @@
         "aliases": [
             "Chicken Breast, Imported",
             "Chicken Breast",
-            "Manok"
+            "Manok",
+            "Pito",
+            "Chicken",
+            "Karne ng manok",
+            "Pitso"
         ]
     },
     {
@@ -535,7 +701,11 @@
         "aliases": [
             "Chicken Breast, Local",
             "Chicken Breast",
-            "Manok"
+            "Manok",
+            "Pito",
+            "Chicken",
+            "Karne ng manok",
+            "Pitso"
         ]
     },
     {
@@ -544,7 +714,10 @@
             "Chicken Drumstick, Imported",
             "Chicken Drumstick",
             "Chicken Leg",
-            "Manok"
+            "Manok",
+            "Hita",
+            "Chicken",
+            "Karne ng manok"
         ]
     },
     {
@@ -553,7 +726,10 @@
             "Chicken Drumstick, Local",
             "Chicken Drumstick",
             "Chicken Leg",
-            "Manok"
+            "Manok",
+            "Hita",
+            "Chicken",
+            "Karne ng manok"
         ]
     },
     {
@@ -562,7 +738,8 @@
             "Chicken Egg (White, Medium)",
             "Chicken Egg",
             "Itlog ng manok",
-            "Itlog"
+            "Itlog",
+            "Egg"
         ]
     },
     {
@@ -571,7 +748,9 @@
             "Chicken Feet, Imported",
             "Chicken Feet",
             "Adidas",
-            "Manok"
+            "Paa ng manok",
+            "Manok",
+            "Chicken"
         ]
     },
     {
@@ -580,7 +759,9 @@
             "Chicken Feet, Local",
             "Chicken Feet",
             "Adidas",
-            "Manok"
+            "Paa ng manok",
+            "Manok",
+            "Chicken"
         ]
     },
     {
@@ -588,7 +769,10 @@
         "aliases": [
             "Chicken Leg Quarter",
             "Chicken Leg",
-            "Manok"
+            "Manok",
+            "Hita",
+            "Chicken",
+            "Karne ng manok"
         ]
     },
     {
@@ -596,7 +780,10 @@
         "aliases": [
             "Chicken Leg Quarter, Imported",
             "Chicken Leg",
-            "Manok"
+            "Manok",
+            "Hita",
+            "Chicken",
+            "Karne ng manok"
         ]
     },
     {
@@ -604,7 +791,10 @@
         "aliases": [
             "Chicken Liver, Imported",
             "Chicken Liver",
-            "Atay ng manok"
+            "Atay ng manok",
+            "Atay",
+            "Manok",
+            "Chicken"
         ]
     },
     {
@@ -612,7 +802,10 @@
         "aliases": [
             "Chicken Liver, Local",
             "Chicken Liver",
-            "Atay ng manok"
+            "Atay ng manok",
+            "Atay",
+            "Manok",
+            "Chicken"
         ]
     },
     {
@@ -620,7 +813,9 @@
         "aliases": [
             "Chicken Neck, Imported",
             "Chicken Neck",
-            "Manok"
+            "Manok",
+            "Leeg ng manok",
+            "Chicken"
         ]
     },
     {
@@ -628,7 +823,9 @@
         "aliases": [
             "Chicken Neck, Local",
             "Chicken Neck",
-            "Manok"
+            "Manok",
+            "Leeg ng manok",
+            "Chicken"
         ]
     },
     {
@@ -636,7 +833,9 @@
         "aliases": [
             "Chicken Rind/Skin, Imported",
             "Chicken Skin",
-            "Balat ng manok"
+            "Balat ng manok",
+            "Manok",
+            "Chicken"
         ]
     },
     {
@@ -644,7 +843,9 @@
         "aliases": [
             "Chicken Rind/Skin, Local",
             "Chicken Skin",
-            "Balat ng manok"
+            "Balat ng manok",
+            "Manok",
+            "Chicken"
         ]
     },
     {
@@ -652,7 +853,9 @@
         "aliases": [
             "Chicken Thigh, Imported",
             "Chicken Thigh",
-            "Manok"
+            "Manok",
+            "Hita",
+            "Chicken"
         ]
     },
     {
@@ -660,7 +863,9 @@
         "aliases": [
             "Chicken Thigh, Local",
             "Chicken Thigh",
-            "Manok"
+            "Manok",
+            "Hita",
+            "Chicken"
         ]
     },
     {
@@ -669,7 +874,9 @@
             "Chicken Wing, Imported",
             "Chicken Wing",
             "Chicken Wings",
-            "Manok"
+            "Manok",
+            "Pakpak",
+            "Chicken"
         ]
     },
     {
@@ -678,7 +885,9 @@
             "Chicken Wing, Local",
             "Chicken Wing",
             "Chicken Wings",
-            "Manok"
+            "Manok",
+            "Pakpak",
+            "Chicken"
         ]
     },
     {
@@ -687,7 +896,10 @@
             "Chilli (Green), Local",
             "Sili",
             "Siling panigang",
-            "Green Chilli"
+            "Siling haba",
+            "Green Chilli",
+            "Green Chili",
+            "Chili Pepper"
         ]
     },
     {
@@ -696,7 +908,9 @@
             "Chilli (Red), Local",
             "Sili",
             "Siling labuyo",
-            "Red Chilli"
+            "Red Chilli",
+            "Red Chili",
+            "Chili Pepper"
         ]
     },
     {
@@ -704,7 +918,9 @@
         "aliases": [
             "Cooking Oil (Coconut)",
             "Coconut Oil",
-            "Langis ng Niyog"
+            "Langis ng Niyog",
+            "Cooking Oil",
+            "Mantika"
         ]
     },
     {
@@ -712,17 +928,18 @@
         "aliases": [
             "Cooking Oil (Minola)",
             "Minola",
-            "Cooking Oil"
+            "Cooking Oil",
+            "Mantika"
         ]
     },
     {
-        "commodity": "Cooking Oil (Palm Olein, Jolly\nBrand)",
+        "commodity": "Cooking Oil (Palm Olein, Jolly Brand)",
         "aliases": [
-            "Cooking Oil (Palm Olein, Jolly\nBrand)",
             "Cooking Oil (Palm Olein, Jolly Brand)",
             "Palm Oil",
             "Jolly",
-            "Cooking Oil"
+            "Cooking Oil",
+            "Mantika"
         ]
     },
     {
@@ -730,7 +947,8 @@
         "aliases": [
             "Cooking Oil (Palm)",
             "Palm Oil",
-            "Cooking Oil"
+            "Cooking Oil",
+            "Mantika"
         ]
     },
     {
@@ -738,7 +956,8 @@
         "aliases": [
             "Cooking Oil (Spring)",
             "Spring Oil",
-            "Cooking Oil"
+            "Cooking Oil",
+            "Mantika"
         ]
     },
     {
@@ -746,7 +965,8 @@
         "aliases": [
             "Corn (White)",
             "White Corn",
-            "Mais"
+            "Mais",
+            "Corn"
         ]
     },
     {
@@ -754,7 +974,8 @@
         "aliases": [
             "Corn (Yellow)",
             "Yellow Corn",
-            "Mais"
+            "Mais",
+            "Corn"
         ]
     },
     {
@@ -762,7 +983,8 @@
         "aliases": [
             "Corn Cracked (Yellow, Feed Grade)",
             "Cracked Corn",
-            "Mais"
+            "Mais",
+            "Corn"
         ]
     },
     {
@@ -770,7 +992,8 @@
         "aliases": [
             "Corn Grits (Feed Grade)",
             "Corn Grits",
-            "Mais"
+            "Mais",
+            "Corn"
         ]
     },
     {
@@ -778,7 +1001,9 @@
         "aliases": [
             "Corn Grits (White, Food Grade)",
             "White Corn Grits",
-            "Bigas mais"
+            "Bigas mais",
+            "Mais",
+            "Corn"
         ]
     },
     {
@@ -786,7 +1011,9 @@
         "aliases": [
             "Corn Grits (Yellow, Food Grade)",
             "Yellow Corn Grits",
-            "Bigas mais"
+            "Bigas mais",
+            "Mais",
+            "Corn"
         ]
     },
     {
@@ -794,7 +1021,9 @@
         "aliases": [
             "Duck Meat, Imported",
             "Duck",
-            "Pato"
+            "Pato",
+            "Bibe",
+            "Duck Meat"
         ]
     },
     {
@@ -802,14 +1031,17 @@
         "aliases": [
             "Duck Meat, Local",
             "Duck",
-            "Pato"
+            "Pato",
+            "Bibe",
+            "Duck Meat"
         ]
     },
     {
         "commodity": "Eggplant",
         "aliases": [
             "Eggplant",
-            "Talong"
+            "Talong",
+            "Aubergine"
         ]
     },
     {
@@ -817,7 +1049,9 @@
         "aliases": [
             "Galunggong, Imported",
             "Galunggong",
-            "Round Scad"
+            "Round Scad",
+            "GG",
+            "Isda"
         ]
     },
     {
@@ -825,7 +1059,9 @@
         "aliases": [
             "Galunggong, Local",
             "Galunggong",
-            "Round Scad"
+            "Round Scad",
+            "GG",
+            "Isda"
         ]
     },
     {
@@ -865,7 +1101,9 @@
         "aliases": [
             "Glutinous Rice",
             "Malagkit",
-            "Sticky Rice"
+            "Sticky Rice",
+            "Bigas",
+            "Rice"
         ]
     },
     {
@@ -874,7 +1112,9 @@
             "Habichuelas/Baguio Beans, Local",
             "Habichuelas",
             "Baguio Beans",
-            "Snap Beans"
+            "Snap Beans",
+            "Green Beans",
+            "Bitsuelas"
         ]
     },
     {
@@ -882,7 +1122,9 @@
         "aliases": [
             "Jasponica/Japonica Rice",
             "Japonica Rice",
-            "Jasponica"
+            "Jasponica",
+            "Rice",
+            "Bigas"
         ]
     },
     {
@@ -898,7 +1140,8 @@
         "aliases": [
             "Lettuce (Green Ice)",
             "Green Ice Lettuce",
-            "Litsugas"
+            "Litsugas",
+            "Lettuce"
         ]
     },
     {
@@ -906,7 +1149,8 @@
         "aliases": [
             "Lettuce (Iceberg)",
             "Iceberg Lettuce",
-            "Litsugas"
+            "Litsugas",
+            "Lettuce"
         ]
     },
     {
@@ -914,7 +1158,8 @@
         "aliases": [
             "Lettuce (Romaine)",
             "Romaine Lettuce",
-            "Litsugas"
+            "Litsugas",
+            "Lettuce"
         ]
     },
     {
@@ -930,7 +1175,8 @@
         "aliases": [
             "Mackerel, Imported",
             "Mackerel",
-            "Alumahan"
+            "Alumahan",
+            "Isda"
         ]
     },
     {
@@ -939,14 +1185,16 @@
             "Mango (Carabao)",
             "Mango",
             "Mangga",
-            "Carabao Mango"
+            "Carabao Mango",
+            "Kalabaw"
         ]
     },
     {
         "commodity": "Melon",
         "aliases": [
             "Melon",
-            "Cantaloupe"
+            "Cantaloupe",
+            "Milong bilog"
         ]
     },
     {
@@ -962,14 +1210,18 @@
         "aliases": [
             "Native Pechay",
             "Pechay",
-            "Bok choy"
+            "Bok choy",
+            "Petsay",
+            "Snow Cabbage"
         ]
     },
     {
         "commodity": "Other Special Rice",
         "aliases": [
             "Other Special Rice",
-            "Special Rice"
+            "Special Rice",
+            "Bigas",
+            "Rice"
         ]
     },
     {
@@ -977,7 +1229,8 @@
         "aliases": [
             "Pampano, Imported",
             "Pampano",
-            "Pompano"
+            "Pompano",
+            "Isda"
         ]
     },
     {
@@ -985,7 +1238,8 @@
         "aliases": [
             "Pampano, Local",
             "Pampano",
-            "Pompano"
+            "Pompano",
+            "Isda"
         ]
     },
     {
@@ -1000,7 +1254,10 @@
         "aliases": [
             "Pechay Baguio",
             "Pechay",
-            "Napa Cabbage"
+            "Napa Cabbage",
+            "Wombok",
+            "Chinese Cabbage",
+            "Petsay Baguio"
         ]
     },
     {
@@ -1009,7 +1266,8 @@
             "Peckin Duck, Imported",
             "Pekin Duck",
             "Duck",
-            "Pato"
+            "Pato",
+            "Bibe"
         ]
     },
     {
@@ -1018,7 +1276,8 @@
             "Peckin Duck, Local",
             "Pekin Duck",
             "Duck",
-            "Pato"
+            "Pato",
+            "Bibe"
         ]
     },
     {
@@ -1026,6 +1285,7 @@
         "aliases": [
             "Pole Sitao",
             "Sitao",
+            "Sitaw",
             "String Beans",
             "Yardlong Bean"
         ]
@@ -1034,7 +1294,8 @@
         "commodity": "Pomelo",
         "aliases": [
             "Pomelo",
-            "Suha"
+            "Suha",
+            "Lukban"
         ]
     },
     {
@@ -1042,7 +1303,10 @@
         "aliases": [
             "Pork Belly (Liempo), Imported",
             "Pork Belly",
-            "Liempo"
+            "Liempo",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1050,7 +1314,10 @@
         "aliases": [
             "Pork Belly (Liempo), Local",
             "Pork Belly",
-            "Liempo"
+            "Liempo",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1058,7 +1325,10 @@
         "aliases": [
             "Pork Boston Shoulder, Imported",
             "Kasim",
-            "Pork Shoulder"
+            "Pork Shoulder",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1066,7 +1336,10 @@
         "aliases": [
             "Pork Boston Shoulder, Local",
             "Kasim",
-            "Pork Shoulder"
+            "Pork Shoulder",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1074,7 +1347,10 @@
         "aliases": [
             "Pork Chop, Imported",
             "Pork Chop",
-            "Porkchop"
+            "Porkchop",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1082,7 +1358,10 @@
         "aliases": [
             "Pork Chop, Local",
             "Pork Chop",
-            "Porkchop"
+            "Porkchop",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1090,7 +1369,10 @@
         "aliases": [
             "Pork Fore Shank, Imported",
             "Pork Shank",
-            "Pata"
+            "Pata",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1098,7 +1380,10 @@
         "aliases": [
             "Pork Fore Shank, Local",
             "Pork Shank",
-            "Pata"
+            "Pata",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1106,7 +1391,10 @@
         "aliases": [
             "Pork Head, Imported",
             "Pork Head",
-            "Ulo ng baboy"
+            "Ulo ng baboy",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1114,7 +1402,10 @@
         "aliases": [
             "Pork Head, Local",
             "Pork Head",
-            "Ulo ng baboy"
+            "Ulo ng baboy",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1122,7 +1413,10 @@
         "aliases": [
             "Pork Hind Leg (Pigue), Imported",
             "Pigue",
-            "Pork Leg"
+            "Pork Leg",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1130,7 +1424,10 @@
         "aliases": [
             "Pork Hind Leg (Pigue), Local",
             "Pigue",
-            "Pork Leg"
+            "Pork Leg",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1138,7 +1435,10 @@
         "aliases": [
             "Pork Hind Shank, Imported",
             "Pork Shank",
-            "Pata"
+            "Pata",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1146,7 +1446,10 @@
         "aliases": [
             "Pork Hind Shank, Local",
             "Pork Shank",
-            "Pata"
+            "Pata",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1154,7 +1457,10 @@
         "aliases": [
             "Pork Loin, Imported",
             "Pork Loin",
-            "Lomo"
+            "Lomo",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1162,7 +1468,10 @@
         "aliases": [
             "Pork Loin, Local",
             "Pork Loin",
-            "Lomo"
+            "Lomo",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1170,7 +1479,9 @@
         "aliases": [
             "Pork Offals, Imported",
             "Pork Offal",
-            "Lamang loob ng baboy"
+            "Lamang loob ng baboy",
+            "Pork",
+            "Baboy"
         ]
     },
     {
@@ -1178,25 +1489,31 @@
         "aliases": [
             "Pork Offals, Local",
             "Pork Offal",
-            "Lamang loob ng baboy"
+            "Lamang loob ng baboy",
+            "Pork",
+            "Baboy"
         ]
     },
     {
-        "commodity": "Pork Picnic Shoulder (Kasim),\nImported",
+        "commodity": "Pork Picnic Shoulder (Kasim), Imported",
         "aliases": [
-            "Pork Picnic Shoulder (Kasim),\nImported",
             "Pork Picnic Shoulder (Kasim), Imported",
             "Kasim",
-            "Pork Shoulder"
+            "Pork Shoulder",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
-        "commodity": "Pork Picnic Shoulder (Kasim),\nLocal",
+        "commodity": "Pork Picnic Shoulder (Kasim), Local",
         "aliases": [
-            "Pork Picnic Shoulder (Kasim),\nLocal",
             "Pork Picnic Shoulder (Kasim), Local",
             "Kasim",
-            "Pork Shoulder"
+            "Pork Shoulder",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1205,7 +1522,9 @@
             "Pork Rind/Skin, Imported",
             "Pork Skin",
             "Chicharon",
-            "Balat ng baboy"
+            "Balat ng baboy",
+            "Pork",
+            "Baboy"
         ]
     },
     {
@@ -1214,7 +1533,9 @@
             "Pork Rind/Skin, Local",
             "Pork Skin",
             "Chicharon",
-            "Balat ng baboy"
+            "Balat ng baboy",
+            "Pork",
+            "Baboy"
         ]
     },
     {
@@ -1222,7 +1543,10 @@
         "aliases": [
             "Pork Spare Ribs, Imported",
             "Pork Ribs",
-            "Buto-buto"
+            "Buto-buto",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
@@ -1230,14 +1554,19 @@
         "aliases": [
             "Pork Spare Ribs, Local",
             "Pork Ribs",
-            "Buto-buto"
+            "Buto-buto",
+            "Pork",
+            "Baboy",
+            "Karne ng baboy"
         ]
     },
     {
         "commodity": "Premium",
         "aliases": [
             "Premium",
-            "Premium Rice"
+            "Premium Rice",
+            "Rice",
+            "Bigas"
         ]
     },
     {
@@ -1245,7 +1574,10 @@
         "aliases": [
             "Red Onion, Imported",
             "Red Onion",
-            "Sibuyas na pula"
+            "Sibuyas na pula",
+            "Sibuyas",
+            "Bumbay",
+            "Onion"
         ]
     },
     {
@@ -1254,14 +1586,19 @@
             "Red Onion, Local",
             "Red Onion",
             "Sibuyas na pula",
-            "Sibuyas Tagalog"
+            "Sibuyas Tagalog",
+            "Sibuyas",
+            "Bumbay",
+            "Onion"
         ]
     },
     {
         "commodity": "Regular Milled",
         "aliases": [
             "Regular Milled",
-            "Regular Milled Rice"
+            "Regular Milled Rice",
+            "Rice",
+            "Bigas"
         ]
     },
     {
@@ -1269,7 +1606,8 @@
         "aliases": [
             "Salmon Belly, Imported",
             "Salmon Belly",
-            "Salmon"
+            "Salmon",
+            "Isda"
         ]
     },
     {
@@ -1277,7 +1615,8 @@
         "aliases": [
             "Salmon Belly, Local",
             "Salmon Belly",
-            "Salmon"
+            "Salmon",
+            "Isda"
         ]
     },
     {
@@ -1285,7 +1624,8 @@
         "aliases": [
             "Salmon Head, Imported",
             "Salmon Head",
-            "Salmon"
+            "Salmon",
+            "Isda"
         ]
     },
     {
@@ -1293,7 +1633,8 @@
         "aliases": [
             "Salmon Head, Local",
             "Salmon Head",
-            "Salmon"
+            "Salmon",
+            "Isda"
         ]
     },
     {
@@ -1301,7 +1642,8 @@
         "aliases": [
             "Salt (Iodized)",
             "Iodized Salt",
-            "Asin"
+            "Asin",
+            "Salt"
         ]
     },
     {
@@ -1309,7 +1651,8 @@
         "aliases": [
             "Salt (Rock)",
             "Rock Salt",
-            "Asin"
+            "Asin",
+            "Salt"
         ]
     },
     {
@@ -1317,14 +1660,16 @@
         "aliases": [
             "Sardines (Tamban)",
             "Sardines",
-            "Tamban"
+            "Tamban",
+            "Isda"
         ]
     },
     {
         "commodity": "Squash",
         "aliases": [
             "Squash",
-            "Kalabasa"
+            "Kalabasa",
+            "Pumpkin"
         ]
     },
     {
@@ -1332,7 +1677,8 @@
         "aliases": [
             "Squid (Pusit Bisaya), Local",
             "Squid",
-            "Pusit"
+            "Pusit",
+            "Calamari"
         ]
     },
     {
@@ -1340,7 +1686,8 @@
         "aliases": [
             "Squid, Imported",
             "Squid",
-            "Pusit"
+            "Pusit",
+            "Calamari"
         ]
     },
     {
@@ -1348,7 +1695,9 @@
         "aliases": [
             "Sugar (Brown)",
             "Brown Sugar",
-            "Asukal na pula"
+            "Asukal na pula",
+            "Asukal",
+            "Sugar"
         ]
     },
     {
@@ -1357,7 +1706,9 @@
             "Sugar (Refined)",
             "Refined Sugar",
             "Asukal na puti",
-            "White Sugar"
+            "White Sugar",
+            "Asukal",
+            "Sugar"
         ]
     },
     {
@@ -1365,34 +1716,37 @@
         "aliases": [
             "Sugar (Washed)",
             "Washed Sugar",
-            "Asukal"
+            "Asukal",
+            "Sugar"
         ]
     },
     {
-        "commodity": "Tambakol (Yellow-Fin Tuna),\nImported",
+        "commodity": "Tambakol (Yellow-Fin Tuna), Imported",
         "aliases": [
-            "Tambakol (Yellow-Fin Tuna),\nImported",
             "Tambakol (Yellow-Fin Tuna), Imported",
             "Tambakol",
             "Yellowfin Tuna",
-            "Tuna"
+            "Tuna",
+            "Isda"
         ]
     },
     {
-        "commodity": "Tambakol (Yellow-Fin Tuna),\nLocal",
+        "commodity": "Tambakol (Yellow-Fin Tuna), Local",
         "aliases": [
-            "Tambakol (Yellow-Fin Tuna),\nLocal",
             "Tambakol (Yellow-Fin Tuna), Local",
             "Tambakol",
             "Yellowfin Tuna",
-            "Tuna"
+            "Tuna",
+            "Isda"
         ]
     },
     {
         "commodity": "Tanigue",
         "aliases": [
             "Tanigue",
-            "Spanish Mackerel"
+            "Spanish Mackerel",
+            "Isda",
+            "Seerfish"
         ]
     },
     {
@@ -1401,13 +1755,16 @@
             "Tiger Chillies, Imported",
             "Tiger Chillies",
             "Sili",
-            "Tiger Chili"
+            "Tiger Chili",
+            "Chili Pepper"
         ]
     },
     {
         "commodity": "Tilapia",
         "aliases": [
-            "Tilapia"
+            "Tilapia",
+            "St. Peter's Fish",
+            "Isda"
         ]
     },
     {
@@ -1429,7 +1786,9 @@
         "commodity": "Well Milled",
         "aliases": [
             "Well Milled",
-            "Well Milled Rice"
+            "Well Milled Rice",
+            "Rice",
+            "Bigas"
         ]
     },
     {
@@ -1437,7 +1796,10 @@
         "aliases": [
             "White Onion, Imported",
             "White Onion",
-            "Sibuyas na puti"
+            "Sibuyas na puti",
+            "Sibuyas",
+            "Bumbay",
+            "Onion"
         ]
     },
     {
@@ -1445,7 +1807,10 @@
         "aliases": [
             "White Onion, Local",
             "White Onion",
-            "Sibuyas na puti"
+            "Sibuyas na puti",
+            "Sibuyas",
+            "Bumbay",
+            "Onion"
         ]
     },
     {
@@ -1470,7 +1835,8 @@
             "Whole Chicken, Imported",
             "Whole Chicken",
             "Chicken",
-            "Manok"
+            "Manok",
+            "Buong manok"
         ]
     },
     {
@@ -1479,7 +1845,8 @@
             "Whole Chicken, Local",
             "Whole Chicken",
             "Chicken",
-            "Manok"
+            "Manok",
+            "Buong manok"
         ]
     }
 ]
