@@ -1,2 +1,5 @@
 ﻿__pycache__/
 *.pyc
+import.log
+prices.db
+version.json
