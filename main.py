@@ -26,12 +26,24 @@ def write_log(text):
         f.write("\n" + "-"*30 + "\n")
 
 def generate_version_json(latest_date):
+    version_path = DATABASE_NAME.parent / "version.json"
+    version_number = 1
+    if version_path.exists():
+        try:
+            with open(version_path, "r", encoding="utf-8") as f:
+                old_data = json.load(f)
+                if "version" in old_data:
+                    version_number = int(old_data["version"]) + 1
+        except:
+            pass
+
     version_info = {
+        "version": version_number,
         "latest_date": latest_date,
         "generated_at": datetime.now().isoformat(),
         "database_file": DATABASE_NAME.name
     }
-    with open(DATABASE_NAME.parent / "version.json", "w", encoding="utf-8") as f:
+    with open(version_path, "w", encoding="utf-8") as f:
         json.dump(version_info, f, indent=4)
 
 def main():
